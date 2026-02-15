@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Ancy
+## 👋 Hey there, I’m Ancy
 
 Automation engineer by role, developer by direction.  
 Currently learning **Go**, exploring **AWS**, and building small systems to understand how things actually work.
