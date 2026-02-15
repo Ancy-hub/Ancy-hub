@@ -37,4 +37,4 @@ Currently learning **Go**, exploring **AWS**, and building small systems to unde
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
->If something breaks, it’s just a feature in progress. ⭐
+>If it works, it’s intentional. If it doesn’t, it’s under active research.⭐
