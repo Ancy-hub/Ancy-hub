@@ -1,16 +1,40 @@
-## Hi there 👋
+## 👋 Hi, I’m Ancy
 
-<!--
-**Ancy-hub/Ancy-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Automation engineer by role, developer by direction.  
+Currently learning **Go**, exploring **AWS**, and building small systems to understand how things actually work.
 
-Here are some ideas to get you started:
+---
+### 🖥️ System Logs (Human Edition)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Leveling up: Go fundamentals + AWS basics  
+🧪 Debug philosophy: logs → more logs → it was a typo  
+
+🤖 Automation origin story:  
+✅ Make machines do repetitive work  
+❌ Occasionally automate the wrong thing perfectly  
+
+🐹 Go arc:  
+✅ Compiles successfully  
+❌ Goroutines (terms under negotiation)  
+
+☁️ AWS phase:  
+✅ Can launch a service  
+❌ Still triple-checking regions like exam questions
+
+---
+### 🛠️ Tools That Tolerate Me
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+>If something breaks, it’s just a feature in progress. ⭐
