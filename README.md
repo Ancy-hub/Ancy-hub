@@ -6,21 +6,21 @@ Currently learning **Go**, exploring **AWS**, and building small systems to unde
 ---
 ### 🖥️ System Logs (Human Edition)
 
-🌱 Leveling up: Go fundamentals + AWS basics
-🧪 Debug philosophy: logs → more logs → it was a typo
+🌱 Leveling up: Go fundamentals + AWS basics  
+🧪 Debug philosophy: logs → more logs → it was a typo  
 
-👩‍💻 Code + test architecture:
-✅ Write tests like production code
-✅ Build frameworks, not just test cases
-❌ Sometimes test the test framework
+👩‍💻 Code + test architecture:  
+✅ Write tests like production code  
+✅ Build frameworks, not just test cases  
+❌ Sometimes test the test framework  
 
-🐹 Go arc:
-✅ Compiles successfully
-❌ Goroutines (terms under negotiation)
+🐹 Go arc:  
+✅ Compiles successfully  
+❌ Goroutines (terms under negotiation)  
 
-☁️ AWS phase:
-✅ Can launch a service
-❌ Still triple-checking regions like exam questions
+☁️ AWS phase:  
+✅ Can launch a service  
+❌ Still triple-checking regions like exam questions  
 
 ---
 ### 🛠️ Tools That Tolerate Me
