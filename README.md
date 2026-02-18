@@ -4,10 +4,6 @@ A backend-focused engineer with strong testing and framework design experience.
 Currently learning **Go**, exploring **AWS**, and building small systems to understand how things actually work.
 
 ---
-Here’s a **developer-leaning rewrite** of that section while keeping your vibe:
-
----
-
 ### 🖥️ System Logs (Human Edition)
 
 🌱 Leveling up: Go fundamentals + AWS basics
